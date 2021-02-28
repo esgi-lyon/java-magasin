@@ -1,0 +1,7 @@
+manala:
+  repository: http://github.com/loic-roux-404/manala-recipes.git
+  recipe: dev.java
+
+repository_save: http://github.com/loic-roux-404/manala-recipes.git
+gitignore: ""
+
